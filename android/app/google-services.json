@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742527363660",
+    "project_id": "afircamaket",
+    "storage_bucket": "afircamaket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742527363660:android:8dcf84469b34ad0d7222e9",
+        "android_client_info": {
+          "package_name": "com.africa_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742527363660-adchv1s017h1jqmpkno7r9vvcprn300d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKOT4JQrP_OixWRHeEbHMeJnzOP7tvzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742527363660-adchv1s017h1jqmpkno7r9vvcprn300d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

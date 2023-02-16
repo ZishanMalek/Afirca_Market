@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Africa_Market</string>
+    
+  <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDJn3lkmc1GoVe1YMv0ZBzpUnLPlKnAeNQ</string>
+<string name="facebook_app_id">1067764923894784</string>
+<string name="fb_login_protocol_scheme">fb1067764923894784</string>
+<string name="facebook_client_token">b38e35fa555865cdcf76949ba66a6ee9</string>
+
+
+
+</resources>

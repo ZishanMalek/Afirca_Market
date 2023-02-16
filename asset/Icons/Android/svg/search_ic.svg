@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/search_ic</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-28.000000, -95.000000)">
+            <g id="Group-3" transform="translate(19.000000, 87.000000)">
+                <g id="search_ic" transform="translate(9.000000, 8.000000)">
+                    <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M18.031,16.617 L22.314,20.899 L20.899,22.314 L16.617,18.031 C15.0237382,19.3082211 13.0420011,20.0029052 11,20 C6.032,20 2,15.968 2,11 C2,6.032 6.032,2 11,2 C15.968,2 20,6.032 20,11 C20.0029052,13.0420011 19.3082211,15.0237382 18.031,16.617 Z M16.025,15.875 C17.2941129,14.5698857 18.002867,12.8204293 18,11 C18,7.132 14.867,4 11,4 C7.132,4 4,7.132 4,11 C4,14.867 7.132,18 11,18 C12.8204293,18.002867 14.5698857,17.2941129 15.875,16.025 L16.025,15.875 L16.025,15.875 Z" id="Shape" fill="#202328" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

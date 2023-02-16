@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/checkbox_check</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="checkbox_check">
+            <rect id="Rectangle" fill="#47CDFE" x="0" y="0" width="20" height="20" rx="2"></rect>
+            <g id="check-line(3)" transform="translate(4.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="0.8">
+                <polygon id="Path" points="4.19991751 6.11796024 10.2661717 0 11.2 0.941019882 4.19991751 8 0 3.76474503 0.933168346 2.82372515"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/support_ic</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile" transform="translate(-56.000000, -718.000000)">
+            <g id="support_ic" transform="translate(56.000000, 718.000000)">
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M22,17.002 C21.9990836,19.8193915 20.038652,22.2569322 17.287,22.862 L16.649,20.948 C17.8320293,20.7531538 18.8654303,20.0382869 19.465,19 L17,19 C15.8954305,19 15,18.1045695 15,17 L15,13 C15,11.8954305 15.8954305,11 17,11 L19.938,11 C19.4330948,7.00036736 16.0313758,4.00107634 12,4.00107634 C7.96862424,4.00107634 4.56690517,7.00036736 4.062,11 L7,11 C8.1045695,11 9,11.8954305 9,13 L9,17 C9,18.1045695 8.1045695,19 7,19 L4,19 C2.8954305,19 2,18.1045695 2,17 L2,12 C2,6.477 6.477,2 12,2 C17.523,2 22,6.477 22,12 L22,17.002 Z M20,17 L20,13 L17,13 L17,17 L20,17 Z M4,13 L4,17 L7,17 L7,13 L4,13 Z" id="Shape" fill="#202328" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

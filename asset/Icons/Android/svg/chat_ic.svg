@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/chat_ic</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Detail" transform="translate(-317.000000, -419.000000)">
+            <g id="chat_ic" transform="translate(317.000000, 419.000000)">
+                <circle id="Oval" fill="#47CDFE" cx="21" cy="21" r="21"></circle>
+                <g id="chat-3-line(3)" transform="translate(9.000000, 9.000000)">
+                    <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M7.291,20.824 L1.99998871,22.0000113 L3.176,16.709 C2.40153174,15.2603832 1.99752686,13.6426459 1.99998871,12 C1.99998871,6.477 6.477,2 12,2 C17.523,2 22,6.477 22,12 C22,17.523 17.523,22.0000113 12,22.0000113 C10.3573541,22.0024731 8.73961684,21.5984683 7.291,20.824 L7.291,20.824 Z M7.581,18.711 L8.234,19.061 C9.39255015,19.6801392 10.6863927,20.0027409 12,20.0000173 C16.418278,20.0000173 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,13.334 4.325,14.618 4.94,15.766 L5.289,16.419 L4.634,19.366 L7.581,18.711 L7.581,18.711 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

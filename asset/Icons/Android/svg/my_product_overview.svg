@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/my_product_overview</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile" transform="translate(-55.000000, -603.000000)">
+            <g id="my_product_overview" transform="translate(55.000000, 603.000000)">
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M3,19 L21,19 L21,21 L3,21 L3,19 Z M13,13.172 L19.071,7.1 L20.485,8.514 L12,17 L3.515,8.515 L4.929,7.1 L11,13.17 L11,2 L13,2 L13,13.172 Z" id="Shape" fill="#202328" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

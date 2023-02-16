@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/menu_down_ar</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile" transform="translate(-336.000000, -407.000000)">
+            <g id="menu_down_ar" transform="translate(336.000000, 407.000000)">
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                <polygon id="Path" fill="#202328" fill-rule="nonzero" points="12 13.172 16.95 8.222 18.364 9.636 12 16 5.636 9.636 7.05 8.222"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

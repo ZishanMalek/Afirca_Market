@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="45px" viewBox="0 0 75 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/chat_sm_black</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chat" transform="translate(-252.000000, -355.000000)" fill="#0857DF">
+            <g id="Group-2" transform="translate(252.000000, 355.000000)">
+                <path d="M12,0 L63,0 C69.627417,-1.21743675e-15 75,5.372583 75,12 L75,45 L75,45 L12,45 C5.372583,45 8.11624501e-16,39.627417 0,33 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="chat_sm_black"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="105px" viewBox="0 0 205 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/chat_white_bubble</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chat" transform="translate(-48.000000, -439.000000)" fill="#FFFFFF" stroke="#EBECF4">
+            <g id="Group-6" transform="translate(16.000000, 439.000000)">
+                <g id="Group-2" transform="translate(32.000000, 0.000000)">
+                    <path d="M178,0.5 C185.317773,0.5 191.942773,3.46611353 196.73833,8.2616703 C201.533886,13.0572271 204.5,19.6822271 204.5,27 L204.5,27 L204.5,78 C204.5,85.3177729 201.533886,91.9427729 196.73833,96.7383297 C191.942773,101.533886 185.317773,104.5 178,104.5 L178,104.5 L0.5,104.5 L0.5,27 C0.5,19.6822271 3.46611353,13.0572271 8.2616703,8.2616703 C13.0572271,3.46611353 19.6822271,0.5 27,0.5 L27,0.5 Z" id="chat_white_bubble"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
