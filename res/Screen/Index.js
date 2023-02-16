@@ -2,7 +2,7 @@ export {default as Login} from './LoginAndRegisterScreen/LoginScreen/Login';
 export {default as Register} from './LoginAndRegisterScreen/RegisterScreen/Register';
 export {default as IntroScreen} from './introScreen/IntroScreen';
 
-// ------------------bottmTabScreen.js------------------
+// ------------------bosdsdttmTabScreen.js------------------
 
 export {default as HomeTabSceeen} from './BottmScreen/HomeTabSceeen';
 export {default as CategoriesTabScreen} from './BottmScreen/CategoriesTabScreen';
